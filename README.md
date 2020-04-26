@@ -12,5 +12,8 @@
 ## COVID-19 Impact
 1. [Layoffs.fyi Coronavirus Tracker (US)](https://layoffs.fyi/tracker/)
 
+## Cybersecurity
+1. [Tính năng & Bảo mật của một số Ứng dụng Video Conference phổ biến](https://vanj.jp/2020/04/22/tinh-nang-va-bao-mat-cua-mot-so-ung-dung-video-conference-pho-bien/)
+
 ## Resources
 1. [Springer books for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
