@@ -8,3 +8,9 @@
 
 ## Tracing
 1. [OpenTrace by BlueTrace](https://github.com/OpenTrace-community)
+
+## COVID-19 Impact
+1. [Layoffs.fyi Coronavirus Tracker (US)](https://layoffs.fyi/tracker/)
+
+## Resources
+1. [Springer books for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
