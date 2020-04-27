@@ -33,6 +33,7 @@
 
 ## Tracing Methods
 1. [OpenTrace by BlueTrace](https://github.com/OpenTrace-community)
+2. [BlueZone by Ministry of Information and Communications Vietnam](https://github.com/BluezoneGlobal/bluezone-app)
 
 ## Cybersecurity
 1. [Tính năng & Bảo mật của một số Ứng dụng Video Conference phổ biến](https://vanj.jp/2020/04/22/tinh-nang-va-bao-mat-cua-mot-so-ung-dung-video-conference-pho-bien/)
