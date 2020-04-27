@@ -2,10 +2,12 @@
 
 1. [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://github.com/UCSD-AI4H/COVID-CT)
 
-## Tracking
+## Tracking Data
 1. [Early Insights from the University of Minnesota’s COVID-19 Hospitalization Tracking Dashboard (4/13, University of Minnesota)](https://hmpi.org/2020/04/13/early-insights-from-the-university-of-minnesotas-covid-19-hospitalization-tracking-dashboard/)
 2. [Carlson School of Management COVID-19 Hospitalization Tracking](https://carlsonschool.umn.edu/mili-misrc-covid19-tracking-project)
 3. [The COVID Tracking Project collects and publishes the most complete testing data available for US states and territories.](https://github.com/COVID19Tracking/website)
+4. [Coronavirus (Covid-19) Data in the United States by NYTimes](https://github.com/nytimes/covid-19-data)
+5. [Tokyo COVID-19 Task Force](https://github.com/tokyo-metropolitan-gov/covid19)
 
 ## Tracing
 1. [OpenTrace by BlueTrace](https://github.com/OpenTrace-community)
