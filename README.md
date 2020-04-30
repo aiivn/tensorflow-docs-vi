@@ -31,6 +31,7 @@
 28. [Tracking the impact of COVID-19 in India](https://github.com/covid19india/covid19india-react)
 29. [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
 30. [Wuhan2020 Community Official Website](https://github.com/wuhan2020/wuhan2020.github.io)
+31. [Database dyx.cn COVID-19 Pandemic Real-time reports](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit)
 
 ## Tracing Methods
 1. [OpenTrace by BlueTrace](https://github.com/OpenTrace-community)
@@ -40,6 +41,7 @@
 1. [Tính năng & Bảo mật của một số Ứng dụng Video Conference phổ biến](https://vanj.jp/2020/04/22/tinh-nang-va-bao-mat-cua-mot-so-ung-dung-video-conference-pho-bien/)
 
 ## Research
+1. [Early epidemiological analysis of the coronavirus disease 2019 outbreak based on crowdsourced data: a population-level observational study](https://www.sciencedirect.com/science/article/pii/S2589750020300261)
 
 ## Resources
 1. [Springer books for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
