@@ -43,6 +43,7 @@
 
 ## Research
 1. [Early epidemiological analysis of the coronavirus disease 2019 outbreak based on crowdsourced data: a population-level observational study](https://www.sciencedirect.com/science/article/pii/S2589750020300261)
+2. [Vital Surveillances: The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) — China, 2020](http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51)
 
 ## Resources
 1. [Springer books for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
