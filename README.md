@@ -32,6 +32,7 @@
 29. [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
 30. [Wuhan2020 Community Official Website](https://github.com/wuhan2020/wuhan2020.github.io)
 31. [Database dyx.cn COVID-19 Pandemic Real-time reports](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit)
+32. [Recombinomics update COVID-19 forums](https://recombinomics.co/forum/431-coronavirus-covid/)
 
 ## Tracing Methods
 1. [OpenTrace by BlueTrace](https://github.com/OpenTrace-community)
